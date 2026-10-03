@@ -1,6 +1,6 @@
 # Northstar Print Co.
 
-Published from ImposeIQ Storefront on 2026-10-03T13:57:50.517Z.
+Published from ImposeIQ Storefront on 2026-10-03T23:30:39.136Z.
 
 This is a static, dependency-free catalog site generated from the Northstar Print Co. storefront's active products.
 It has no backend -- "Email this request" opens a pre-filled email to the shop instead of submitting a real order.
